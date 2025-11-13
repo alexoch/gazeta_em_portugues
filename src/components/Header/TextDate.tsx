@@ -1,6 +1,7 @@
 import { toFirstCapitalLetter } from "../../utils/string";
 
 function TextDate(){
+    // TODO missing styling
     const currentDate = new Date();
     const locale = "pt-PT";
     const options : Intl.DateTimeFormatOptions  = {

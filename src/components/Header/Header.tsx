@@ -3,6 +3,7 @@ import TextDate from './TextDate';
 import Edition from './Edition';
 
 function Header(){
+    // todo wrong markup
     return (
         <>
             <div>
