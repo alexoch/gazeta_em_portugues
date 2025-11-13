@@ -1,0 +1,1 @@
+export const toFirstCapitalLetter = (rawString:string):string => rawString.slice(0,1).toUpperCase().concat(rawString.slice(1));  
